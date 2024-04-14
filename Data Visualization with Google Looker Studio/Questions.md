@@ -6,6 +6,7 @@ Connect the Google sheet data also and see how to merge them together
 Resource -> Manage added data sources -> ADD A DATA SOURCE -> Google Sheet
 SELECT chart -> BLEND DATA -> Choose Dimensions & Metrics -> Join Another Table -> Choose Table -> Choose Join Inner Join
 ```
+![Merge table](./2.JPG)
 
 Write a case statement to categorize fun and tips content as one category, others as a seperate category
 ```
@@ -20,3 +21,4 @@ Observe trends in platfroms & categories
 INSERT table -> Add Metric -> ADD Field -> Formula to calculate new value
 Chart -> style -> Metric 1 -> Decorate the data with heatmap . bar/pub
 ```
+![Heatmap](./4a.JPG)
