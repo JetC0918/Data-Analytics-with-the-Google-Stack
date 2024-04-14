@@ -1,8 +1,10 @@
 # Data Analytics with Google Stack
+-- 
 
 This repository includes data analytics by building projects using various free Google services.
 
-## Projects Included:
+## 📂Projects
+-- 
 
 ### [Data Analysis with Google Sheets](./Data%20Analysis%20with%20Google%20Sheets)
 Explore how to perform data analysis using Google Sheets, a web-based spreadsheet program. Learn how to import, clean and manipulate data.
