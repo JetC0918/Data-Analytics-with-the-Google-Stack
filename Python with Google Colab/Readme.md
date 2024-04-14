@@ -18,37 +18,37 @@ data.info()
 data.head(15)
 ```
 
-**Convert 'Date New' Column to Date or Datetime Type **
+**Convert 'Date New' Column to Date or Datetime Type**
 ```
 data['Date New'] = data['Date New'].apply(pd.to_datetime)
 ```
 
-** Combine Calories and Time Day Table with Common Link**
+**Combine Calories and Time Day Table with Common Link**
 ```
 combinedata = data.merge(timedata, left_on='TimeId', right_on='timeId')
 ```
 
-** Drop Duplicate 'timeId' Column**
+**Drop Duplicate 'timeId' Column**
 ```
 combinedata.drop('timeId', axis=1, inplace=True)
 ```
 
-** Show Only the Data for Breakfast**
+**Show Only the Data for Breakfast**
 ```
 dataBreakfast = combinedata[combinedata['time'] == 'Breakfast']
 ```
 
-**Show Only Data Where It Is Lunch and Calories Is More Than 250 **
+**Show Only Data Where It Is Lunch and Calories Is More Than 250**
 ```
 dataLunch250 = combineData[(combineData['time'] == 'Lunch') & (combineData['Calories'] > 250)]
 ```
 
-** Group by TimeId and See Which Had the Highest Calories Intake**
+**Group by TimeId and See Which Had the Highest Calories Intake**
 ```
 combineData.groupby('time')['Calories'].sum()
 ```
 
-**Sort the Data by Calories in Descending Order **
+**Sort the Data by Calories in Descending Order**
 ```
 combineData.sort_values(by=['Calories'], ascending=False)
 ```
