@@ -1,4 +1,4 @@
-# Learn Data Analytics with Google Stack
+# Data Analytics with Google Stack
 
 This repository includes data analytics by building projects using various free Google services.
 
