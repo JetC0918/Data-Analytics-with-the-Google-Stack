@@ -74,7 +74,8 @@ How many days were spent in spanish speaking countries ( use filter & copy data 
 `COUNTUNIQUE`  
 
 Concatenate country and city separated by a hyphen ( show 2 ways)  
-`A2&\`-\`&B2` `CONCATENATE`  
+`"A2&\"-\"&B2"` `CONCATENATE`  
 
 How would you remove duplicates from country
+
 `Data > Data Cleanup > Remove Duplicates`
