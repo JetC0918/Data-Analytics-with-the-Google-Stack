@@ -6,8 +6,10 @@ Return unique value
 `COUNTUNIQUE(A1:A15)`
 Count unique value  
 
-```VLOOKUP(target_cell, lookup_table, lookup_col, is_sorted) 
-VLOOKUP (C2, category!$A$2:$B$11,2,false)  ```
+```
+VLOOKUP(target_cell, lookup_table, lookup_col, is_sorted) 
+VLOOKUP (C2, category!$A$2:$B$11,2,false)
+```
 $ -> inform sheet always look for the column  
 
 `SUMIF(ref_col, ref_cell, value_col)`
