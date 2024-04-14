@@ -1,5 +1,6 @@
 Import data from bigquery
-[Import data from bigquery](./1.JPG)
+![alt text](./1.jpg)
+
 
 Connect the Google sheet data also and see how to merge them together
 ```
