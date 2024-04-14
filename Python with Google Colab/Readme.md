@@ -7,10 +7,7 @@ drive.mount('/content/gdrive')
 import pandas as pd
 data = pd.read_csv('/content/gdrive/My Drive/calories (1).csv')
 ```
-
-**Check Column Types**
-data.info()
-
+ 
 **Check Column Types**
 ```
 data.info()
