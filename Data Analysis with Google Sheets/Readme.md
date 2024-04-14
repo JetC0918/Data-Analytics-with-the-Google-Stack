@@ -3,7 +3,9 @@
 `UNIQUE(A1:A15)`
 Return unique value  
 
-`COUNTUNIQUE(A1:A15)`
+```
+COUNTUNIQUE(A1:A15)
+```
 Count unique value  
 
 ```
