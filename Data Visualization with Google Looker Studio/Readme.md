@@ -27,9 +27,9 @@ Chart -> style -> Metric 1 -> Decorate the data with heatmap . bar/pub
 
 Social Media report produced using Google Lookout Studio
 
-![Social_Media_Report](./Social_Media_Report_Page_1.JPG)
-![Social_Media_Report](./Social_Media_Report_Page_2.JPG)
-![Social_Media_Report](./Social_Media_Report_Page_3.JPG)
-![Social_Media_Report](./Social_Media_Report_Page_4.JPG)
-![Social_Media_Report](./Social_Media_Report_Page_5.JPG)
-![Social_Media_Report](./Social_Media_Report_Page_6.JPG)
+![Social_Media_Report](./Social_Media_Report_Page_1.jpg)
+![Social_Media_Report](./Social_Media_Report_Page_2.jpg)
+![Social_Media_Report](./Social_Media_Report_Page_3.jpg)
+![Social_Media_Report](./Social_Media_Report_Page_4.jpg)
+![Social_Media_Report](./Social_Media_Report_Page_5.jpg)
+![Social_Media_Report](./Social_Media_Report_Page_6.jpg)
