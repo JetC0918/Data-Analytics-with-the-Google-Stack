@@ -1,4 +1,4 @@
-# Googlel Lookout Studio 
+# Google Lookout Studio 
 
 Import data from bigquery
 ![Import data from bigquery](./1.JPG)
