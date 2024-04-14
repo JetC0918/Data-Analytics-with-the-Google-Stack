@@ -1,7 +1,5 @@
 Import data from bigquery
-```
- 1. jpg
-```
+[Import data from bigquery]([image_url](https://github.com/JetC0918/Data-Analytics-with-the-Google-Stack-/blob/main/Data%20Visualization%20with%20Google%20Looker%20Studio/1.JPG))
 
 Connect the Google sheet data also and see how to merge them together
 ```
